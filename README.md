@@ -55,7 +55,7 @@ The solution is ideal for homes, offices, and restricted areas where GSM connect
 - Cloud logging and access history
 
 
-## 👩‍💻 Authors
+##  Authors
 
 - Ganga Krishna A (SCT22EC061)
 - Gawtham Choodan A V (SCT22EC062)
@@ -66,7 +66,7 @@ The solution is ideal for homes, offices, and restricted areas where GSM connect
 
 ---
 
-## 📞 Contact
+##  Contact
 
 For queries, contact [gautamchoodan2003@gmail.com] or create an issue in this repository.
 
